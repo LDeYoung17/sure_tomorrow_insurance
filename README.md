@@ -1,4 +1,4 @@
-# sure_tomorrow_insurance
+# Sure Tomorrow Insurance
 
 <h2>Summary</h2>
 
