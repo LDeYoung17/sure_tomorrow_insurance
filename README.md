@@ -34,6 +34,9 @@ This project utilizes linear algebra and machine learning to find customers simi
 
 ![knn_model](https://github.com/LDeYoung17/sure_tomorrow_insurance/assets/70500225/f1676b3d-90e7-45ec-8d93-ee87415e970e)
 
+<h2>Plans for Updates</h2>
+
+There are no plans for updates at this time.
 
 <h2>Portfolio Link</h2>
 
