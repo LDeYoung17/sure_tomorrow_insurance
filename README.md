@@ -33,3 +33,10 @@ This project utilizes linear algebra and machine learning to find customers simi
 <h2>Sample Code</h2>
 
 ![knn_model](https://github.com/LDeYoung17/sure_tomorrow_insurance/assets/70500225/f1676b3d-90e7-45ec-8d93-ee87415e970e)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
