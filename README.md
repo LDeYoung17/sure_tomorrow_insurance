@@ -34,6 +34,10 @@ Please note that the data that was originally provided by the client and is prop
 
 ![knn_model](https://github.com/LDeYoung17/sure_tomorrow_insurance/assets/70500225/f1676b3d-90e7-45ec-8d93-ee87415e970e)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1nSOV9fGA_EbrryCEIrjglK-Zp0HavqPL/view?usp=drive_link
+
 <h2>Plans for Updates</h2>
 
 There are no plans for updates at this time.
